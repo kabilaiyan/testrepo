@@ -1,0 +1,8 @@
+
+Connection Name Network Adapter Physical Address    Transport Name                                            
+=============== =============== =================== ==========================================================
+Ethernet 2      Cisco AnyConnec 00-05-9A-3C-7A-00   \Device\Tcpip_{13275D41-FED7-4402-A5A4-4A8BB4C15FC7}      
+Ethernet        Intel(R) Ethern 54-E1-AD-43-F7-B6   Media disconnected                                        
+Wi-Fi           Intel(R) Dual B F8-59-71-69-88-9F   \Device\Tcpip_{370DA49E-D305-42FA-8195-E283FAB167DC}      
+Bluetooth Netwo Bluetooth Devic F8-59-71-69-88-A3   Media disconnected                                        
+vEthernet (Defa Hyper-V Virtual 00-15-5D-26-D2-AC   \Device\Tcpip_{B1FCC19C-691B-4ECD-AFA8-35CC75E15B58}      
